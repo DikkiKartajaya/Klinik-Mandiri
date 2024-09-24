@@ -56,11 +56,11 @@ This is a **Clinic Management System** developed using **PHP Native 8**, **Boots
    ```bash
    cd clinic-management-system
 3. Set up your database and import the necessary SQL files.
-4. Configure the database connection in the project :
    - Make new database "db_kliniksederhana"
    - Import the sql file to the database
+4. Configure the database connection in the project :
    - Open koneksi.php and set your database credentials.
-6. Run the project on your local server using XAMPP or any other PHP server.
+5. Run the project on your local server using XAMPP or any other PHP server.
 
 ## Usage
 
